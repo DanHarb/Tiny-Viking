@@ -1,0 +1,31 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     1974 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.037 seconds
+desktop: 1680x1050 60Hz; virtual: 3600x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Daniel\Documents\GitHub\Tiny-Viking\Tiny Viking\t_Data\Managed\System.dll (this message is harmless)
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.112649 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 157.
+Total: 0.191145 ms (FindLiveObjects: 0.011946 ms CreateObjectMapping: 0.047786 ms MarkObjects: 0.127714 ms  DeleteObjects: 0.002559 ms)
+
