@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
 
-public class Spawner : MonoBehaviour {
+public class spawner_SpawnTest : MonoBehaviour {
 
 	public static List<GameObject> ValidTiles = new List<GameObject> ();
 	public int SpawnInterval;

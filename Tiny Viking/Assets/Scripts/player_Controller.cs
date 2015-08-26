@@ -2,12 +2,12 @@
 using System.Collections;
  
 
-public class Movement : MonoBehaviour {
-	plStats stats;
+public class player_Controller : MonoBehaviour {
+	struct_plStats stats;
 
 	// Use this for initialization
 	void Start () {
-		stats = GetComponent<plStats>();
+		stats = GetComponent<struct_plStats>();
 	}
 	
 	// Update is called once per frame

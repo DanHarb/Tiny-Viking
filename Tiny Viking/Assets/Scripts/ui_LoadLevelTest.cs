@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class LoadOnClick : MonoBehaviour {
+public class ui_LoadLevelTest : MonoBehaviour {
 
 	public void LoadScene(int level)
 	{

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class plStats : MonoBehaviour {
+public class struct_plStats : MonoBehaviour {
 
 	public string Name;
 	public float Speed;
