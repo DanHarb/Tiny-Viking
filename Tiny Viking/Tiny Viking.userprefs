@@ -1,10 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\player_FlipToFollowMouse.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\swing.cs">
     <Files>
-      <File FileName="Assets\Scripts\player_MouseWatcher.cs" Line="7" Column="8" />
-      <File FileName="Assets\Scripts\weapon_RotateToMouse.cs" Line="23" Column="28" />
-      <File FileName="Assets\Scripts\player_FlipToFollowMouse.cs" Line="5" Column="2" />
+      <File FileName="Assets\Scripts\weapon.cs" Line="65" Column="25" />
+      <File FileName="Assets\Scripts\swing.cs" Line="4" Column="37" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

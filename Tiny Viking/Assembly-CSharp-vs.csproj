@@ -46,16 +46,20 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\ground_AddToList.cs" />
-     <Compile Include="Assets\Scripts\player_Controller.cs" />
-     <Compile Include="Assets\Scripts\player_FlipToFollowMouse.cs" />
-     <Compile Include="Assets\Scripts\player_MouseWatcher.cs" />
-     <Compile Include="Assets\Scripts\spawner_SpawnTest.cs" />
-     <Compile Include="Assets\Scripts\struct_Weapon.cs" />
-     <Compile Include="Assets\Scripts\struct_plStats.cs" />
-     <Compile Include="Assets\Scripts\ui_LoadLevelTest.cs" />
-     <Compile Include="Assets\Scripts\weapon_OnGround.cs" />
-     <Compile Include="Assets\Scripts\weapon_RotateToMouse.cs" />
+     <Compile Include="Assets\Scripts\old\ground_AddToList.cs" />
+     <Compile Include="Assets\Scripts\old\spawner_SpawnTest.cs" />
+     <Compile Include="Assets\Scripts\old\struct_Weapon.cs" />
+     <Compile Include="Assets\Scripts\old\struct_plStats.cs" />
+     <Compile Include="Assets\Scripts\old\swing_Controller.cs" />
+     <Compile Include="Assets\Scripts\old\ui_LoadLevelTest.cs" />
+     <Compile Include="Assets\Scripts\old\weapon_OnGround.cs" />
+     <Compile Include="Assets\Scripts\old\weapon_RotateToMouse.cs" />
+     <Compile Include="Assets\Scripts\old\weapon_Swing.cs" />
+     <Compile Include="Assets\Scripts\pStats.cs" />
+     <Compile Include="Assets\Scripts\player.cs" />
+     <Compile Include="Assets\Scripts\swing.cs" />
+     <Compile Include="Assets\Scripts\wStats.cs" />
+     <Compile Include="Assets\Scripts\weapon.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
